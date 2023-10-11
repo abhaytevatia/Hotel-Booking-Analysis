@@ -1,4 +1,5 @@
-#Hotel Booking Analysis#
+# **Hotel Booking Analysis**
+
 This Hotel Booking Analysis EDA project delves into the intricate world of booking cancellations and the underlying patterns. Its ultimate aim is to propose actionable measures that can help mitigate cancellations and secure revenue streams.
 
 The dataset encompasses booking information for both a city hotel and a resort hotel, including details like booking timestamps, length of stays, and guest demographics. The project involves an exploration of fundamental EDA concepts and data visualization techniques.
